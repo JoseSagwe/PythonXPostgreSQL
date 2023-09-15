@@ -1,5 +1,5 @@
 # PythonXPostgreSQL
-# Project Name: PostgreSQL Database Operations
+# PostgreSQL Database Operations
 
 ## Overview
 
