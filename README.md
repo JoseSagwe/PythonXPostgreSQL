@@ -11,10 +11,9 @@ Before running the script, make sure you have the following prerequisites:
 
 - PostgreSQL installed on your local machine.
 - A PostgreSQL database named 'food_store' (You can change the database name in the script if needed).
-- Python 3.x installed on your local machine.
+- Python 3 installed on your local machine.
 - Python packages `psycopg2` installed. You can install it using `pip install psycopg2`.
 
-<a name="connection"></a>
 ## 1. Connection
 
 ### Description
