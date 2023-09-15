@@ -5,17 +5,6 @@
 
 This project is a Python script for interacting with a PostgreSQL database. It establishes a connection to the database, creates tables, inserts test data, and performs various database operations using SQL queries. The script is organized into different sections, each of which represents a specific database operation.
 
-## Table of Contents
-
-1. [Connection](#connection)
-2. [Listing Tables](#one)
-3. [Listing Items in the Supplements Section](#two)
-4. [Listing All Departments](#three)
-5. [Adding an Anonymous Shopping Trip](#four)
-6. [Selecting Shopping Trips with Pre-Orders](#five)
-7. [Identifiable Shoppers Who Purchased Both Dried Goods and Fresh Vegetables](#six)
-8. [Deleting the Anonymous Trip](#seven)
-
 ## Prerequisites
 
 Before running the script, make sure you have the following prerequisites:
