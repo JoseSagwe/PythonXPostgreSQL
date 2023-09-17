@@ -1,5 +1,5 @@
 # PythonXPostgreSQL
-# PostgreSQL Database Operations
+# PostgreSQL Database Operations Project
 
 ## Overview
 
@@ -30,7 +30,6 @@ This code cell establishes a connection to the PostgreSQL database and executes 
 This code cell defines a function to list all the tables in the database. It executes a SQL query to fetch the table names from the database and displays them as the output.
 
 ## 3. Listing Items in the Supplements Section
-
 ### Description
 
 This code cell defines a function to list all the items in the supplements section.
