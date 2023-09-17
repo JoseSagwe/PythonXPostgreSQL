@@ -32,6 +32,7 @@ This code cell defines a function to list all the tables in the database. It exe
 ## 3. Listing Items in the Supplements Section
 ### Description
 
+
 This code cell defines a function to list all the items in the supplements section.
 
 ## 4. Listing All Departments
